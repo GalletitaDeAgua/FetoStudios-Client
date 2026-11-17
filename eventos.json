@@ -3,12 +3,16 @@
     {
       "codeHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
       "name": "fetitotoilet",
-      "full": "12121",
-      "date": "2026-11-16T00:32:00-03:00",
+      "full": "eventodeprueba",
+      "date": "2026-11-17T00:32:00-03:00",
       "mode": "supervivencia",
       "loader": "Fabric",
       "mc": "1.21.1",
-      "mods": [],
+      "mods": [
+        {
+          "modrinth": "minijuegos-fetostudios"
+        }
+      ],
       "seed": 843,
       "palette": "night"
     }
