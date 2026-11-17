@@ -1,1 +1,24 @@
-
+{
+  "events": [
+    {
+      "codeHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "name": "fetito",
+      "full": "uwu",
+      "date": "2026-11-17T00:13:00-03:00",
+      "loader": "Fabric",
+      "mc": "1.21.1",
+      "mods": [
+        {
+          "url": "https://github.com/GalletitaDeAgua/FetoStudios-Client/releases/download/mods/minijuegos_fetostudios-2.9.0-1.jar",
+          "file": "minijuegos_fetostudios-2.9.0-1.jar",
+          "sha1": "987cd4ff69139550809c4001eaa470dbbd5925ef",
+          "size": 31385956,
+          "own": true
+        }
+      ],
+      "seed": 36,
+      "palette": "night"
+    }
+  ],
+  "news": []
+}
