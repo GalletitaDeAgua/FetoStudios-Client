@@ -9,6 +9,12 @@
       "mc": "1.21.1",
       "mods": [
         {
+          "modrinth": "fabric-api"
+        },
+        {
+          "modrinth": "sodium"
+        },
+        {
           "url": "https://github.com/GalletitaDeAgua/FetoStudios-Client/releases/download/mods/minijuegos_fetostudios-2.9.0.jar",
           "file": "minijuegos_fetostudios-2.9.0.jar",
           "sha1": "987cd4ff69139550809c4001eaa470dbbd5925ef",
